@@ -3,7 +3,11 @@
 I'm a student and a full-stack developer with a knack for tackling real-world problems through code. I'm not just about writing lines; I'm on a quest to learn, create, and collaborate. I'm all in for building cool projects with others, not just to get things done, but to soak in the lessons along the way. 
 
 ### ⚙️ Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,vue,nextjs,nodejs,expressjs,mongo,python,django,dotnet,mysql,postgresql,linux&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,vue,nextjs,nodejs,expressjs,mongo,python,django,dotnet,mysql,postgresql,linux&perline=4" />
+  </a>
+</p>
 
 #
 
