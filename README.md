@@ -15,6 +15,8 @@ I'm a student and a full-stack developer with a knack for tackling real-world pr
 <img align="left" alt="Dotnet Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30px" style="padding-right:10px" />
 <img align="left" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" style="padding-right:10px" />
 
+--
+
 <details>
 <summary>
     <h3 style="margin-left:10px; display:inline-block;">🧗Sami's Coding Journey</h3>
