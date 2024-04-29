@@ -1,4 +1,4 @@
-# Sami Nafis 🐟🧑‍💻
+# Sami Nafis 🧑‍💻
 
 I'm a student and a full-stack developer with a knack for tackling real-world problems through code. I'm not just about writing lines; I'm on a quest to learn, create, and collaborate. I'm all in for building cool projects with others, not just to get things done, but to soak in the lessons along the way. 
 
